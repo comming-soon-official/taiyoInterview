@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
-import Plotly from 'plotly.js/dist/plotly';
-import Plot from "react-plotly.js";
+import Plotly from 'react-plotly.js';
+import 'plotly.js/dist/plotly.css';
+
 
 const CovidGraph = () => {
   const [data, setData] = useState([]);
@@ -81,7 +82,7 @@ const CovidGraph = () => {
     <div className="flex justify-center">
       {/* adding conditional rendering to avoid development error */}
       {data ? (
-        <Plot
+        <Plotly
           data={[trace1, trace2, trace3]}
           layout={layout}
           config={config}
