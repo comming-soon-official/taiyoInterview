@@ -1,9 +1,9 @@
-# Hey this is detailed documentation to setup app and run 
+# Hey this is detailed documentation to Setup Project and Run 
 
 ## Api Used to show graphs and Maps
 
-### World wide data of cases: `https://disease.sh/v3/covid-19/all`
-### Graph data for cases with date: `[https://disease.sh/v3/covid-19/all](https://disease.sh/v3/covid-19/historical/all?lastdays=all)`
+### World wide data of cases: `https://disease.sh/v3/covid-19/countries`
+### Graph data for cases with date: `https://disease.sh/v3/covid-19/historical/all?lastdays=all`
 
 
 ## Getting Started with Create React App
