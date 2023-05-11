@@ -2,8 +2,6 @@
 
 ## Api Used to show graphs and Maps
 
-In the project directory, you can run:
-
 ### World wide data of cases: `https://disease.sh/v3/covid-19/all`
 ### Graph data for cases with date: `[https://disease.sh/v3/covid-19/all](https://disease.sh/v3/covid-19/historical/all?lastdays=all)`
 
