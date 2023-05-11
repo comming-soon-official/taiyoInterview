@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import Plotly from 'plotly.js/dist/plotly';
 import Plot from "react-plotly.js";
 
 const CovidGraph = () => {
