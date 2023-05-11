@@ -1,5 +1,25 @@
-# Getting Started with Create React App
+# Hey this is detailed documentation to setup app and run 
 
+## Api Used to show graphs and Maps
+
+In the project directory, you can run:
+
+### World wide data of cases: `https://disease.sh/v3/covid-19/all`
+### Graph data for cases with date: `[https://disease.sh/v3/covid-19/all](https://disease.sh/v3/covid-19/historical/all?lastdays=all)`
+
+
+## Getting Started with Create React App
+
+### clone this repository 
+`$ git clone https://github.com/comming-soon-official/taiyoInterview`
+
+In the project directory, you can install required packages from package.json:
+### To install packages from package.json
+`$ npm install`
+
+In the project directory, you can run:
+
+### `npm start`
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,3 +88,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
